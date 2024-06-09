@@ -1,20 +1,18 @@
-# Stable Diffusion WebUI Forge
+# Stable Diffusion WebUI Forge Classic
 
-Stable Diffusion WebUI Forge is a platform on top of [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) (based on [Gradio](https://www.gradio.app/)) to make development easier, optimize resource management, speed up inference, and study experimental features.
+Archive of the original Stable Diffusion WebUI Forge based [here](https://github.com/lllyasviel/stable-diffusion-webui-forge), prior to its changing of focus to a more experimental testing ground.
 
-The name "Forge" is inspired from "Minecraft Forge". This project is aimed at becoming SD WebUI's Forge.
+Stable Diffusion WebUI Forge was a platform on top of [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) (based on [Gradio](https://www.gradio.app/)) to make development easier, optimize resource management, speed up inference, and study experimental features.
 
-This repo will undergo major change very recently. See also the [Announcement](https://github.com/lllyasviel/stable-diffusion-webui-forge/discussions/801).
+The name "Forge" was inspired from "Minecraft Forge". This project was aimed at becoming SD WebUI's Forge.
+
+This repo underwent major change recently which inspired this fork. See also the [Announcement](https://github.com/lllyasviel/stable-diffusion-webui-forge/discussions/801).
 
 # Installing Forge
 
 If you are proficient in Git and you want to install Forge as another branch of SD-WebUI, please see [here](https://github.com/continue-revolution/sd-webui-animatediff/blob/forge/master/docs/how-to-use.md#you-have-a1111-and-you-know-git). In this way, you can reuse all SD checkpoints and all extensions you installed previously in your OG SD-WebUI, but you should know what you are doing.
 
-If you know what you are doing, you can install Forge using same method as SD-WebUI. (Install Git, Python, Git Clone the forge repo `https://github.com/lllyasviel/stable-diffusion-webui-forge.git` and then run webui-user.bat).
-
-**Or you can just use this one-click installation package (with git and python included).**
-
-[>>> Click Here to Download One-Click Package<<<](https://github.com/lllyasviel/stable-diffusion-webui-forge/releases/download/latest/webui_forge_cu121_torch21.7z)
+If you know what you are doing, you can install Forge using same method as SD-WebUI. (Install Git, Python, Git Clone the forge repo `https://github.com/roamingfrog/sd-webui-forge-classic.git` and then run webui-user.bat).
 
 After you download, you uncompress, use `update.bat` to update, and use `run.bat` to run.
 
